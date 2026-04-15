@@ -5,3 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 openzipkin/zipkin
+adoptopenjdk/openjdk11
+adoptopenjdk/openjdk11:jre
+amazoncorretto:17
+amazoncorretto:11
