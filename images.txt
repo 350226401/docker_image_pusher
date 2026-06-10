@@ -7,5 +7,7 @@
 openzipkin/zipkin
 adoptopenjdk/openjdk11
 adoptopenjdk/openjdk11:jre
+adoptopenjdk/openjdk17
+adoptopenjdk/openjdk17:jre
 amazoncorretto:17
 amazoncorretto:11
